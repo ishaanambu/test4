@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.reyu.robodance" 
+	xmlns="http://www.w3.org/ns/widgets" 
+	xmlns:gap="http://phonegap.com/ns/1.0" 
+	versioncode = "10"
+	version = "1.0.0">
+  <name>DancingRobot</name>
+  <description>
+      Dancing Robot.
+  </description>
+  <author email="ishaanambu@gmail.com" href="http://cordova.io">
+      dancing robot
+  </author>
+  
+<icon src="icon.png" />
+</widget>
